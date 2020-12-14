@@ -29,7 +29,7 @@ run android
 the project is a small project and is not complete yet. 
 The following features are still left to do:
 - The MasonryList library that i used is questionable, the library should be forked and maintained or use a different library for the list
-- The "SWIPE TO SEE OTHER IMAGES" returns on every build. It should be hidden permanently after shown once with something like async storage
+- The "SWIPE TO SEE OTHER IMAGES" screen should only show once but it returns on every build. It can be done with something like async storage
 - No unit, component, iu, e2e or other tests are in place.
 - splash screen missing
 - icon missing
